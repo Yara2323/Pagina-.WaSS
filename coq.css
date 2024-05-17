@@ -1,0 +1,370 @@
+body{
+    margin: 0px;
+}
+.barra1{
+    width: 100%;
+    background-color: white;
+    padding-bottom: 20px;
+    box-shadow: 0 0 20px #242424;
+    border-radius: 0 0 15px 15px;
+    position: fixed;
+    margin-top: -29px;
+}
+.contenedor{
+    display: flex;
+}
+.logo{
+    padding: 0px;
+    padding-left: 90px;
+    padding-top: 20px;
+    padding-right: 320px;
+    margin: 0px;
+    border: 0px;
+    display: inline-flex;
+    height: 75px;
+    width: 280px;
+}
+.texto{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    display: flex;
+}
+
+#opciones{
+    padding: 0px;
+    padding-top: 23px;
+    margin: center;
+    border: 0px;
+    display: flex;
+    list-style: none;
+    text-decoration-line: underline;
+    text-decoration-color: #90e0ef;
+
+}
+#opciones ul a{
+    margin-right: 30px;
+    font-size: 23px;
+    font-family:poppins;
+    font-weight: 660;
+    text-decoration: none;
+    color: #242424;
+}
+#opciones ul a:hover {
+    color:azure;
+    background:#242424;
+    border-radius: 7px;
+
+}
+
+#primero{
+    padding-left: 300px;
+}
+.redess{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    height: 22px;
+    width: 22px;
+    padding-top: 43.5px;
+    padding-right: 10px;
+}
+
+
+    
+.recibimiento{
+    background-color:white;
+    width: 100%;
+    height: 715px;
+    display: block;
+    padding-left: 90px;
+}
+.h31{
+    font-family: poppins;
+    color:#03045e;
+    font-size: 30px;
+    font-weight: 590;
+    padding: 0px;
+    padding-top: 120px;
+    border: 0px;
+    margin-bottom: 0px;
+}
+.conectando{
+    display: flex;
+    width: 100px;
+}
+.h21{
+    font-family: poppins;
+    color: #242424;
+    font-size: 60px;
+    padding: 0px;
+    
+    margin: 0px;
+    border: 0px;
+    font-weight: 590;
+    margin: -5px;
+}
+.puntosl{
+    padding: 0px;
+    padding-top: 29px;
+    padding-left: 20px;
+    margin: 0px;
+    border: 0px;
+    height: 38px;
+    width: 350px;
+}
+
+.h11{
+    font-family: poppins;
+    color:#03045e;
+    font-size: 150px;
+    padding: 0px;
+    margin: 0px;
+    margin-top: -65px;
+}
+.creamos{
+    font-family: poppins;
+    font-size: 30px;
+    color: #03045e;
+    font-weight: 590;
+    width: 1000px;
+    padding: 0px;
+    margin: 0px;
+}
+#listos{
+    color: #242424;
+}
+#bcontacto{
+    background-color: #90e0ef;
+    font-family: poppins;
+    color: white;
+    font-size: 28px;
+    font-weight: 630;
+    padding: 20px 40px;
+    margin: 0px;
+    margin-top: 30px;
+    border: 0px;
+    border-radius: 12px;
+    transition: .7s;
+}
+#bcontacto:hover{
+    background-image: linear-gradient(to right,#90e0ef ,#03045e );
+    cursor: pointer;
+}
+.recibimiento2{
+    width: 100%;
+    height: 750px;
+    background-color: #242424;
+    display: flex;
+    box-shadow: 0px 0px 5000px  #90e0ef;
+}
+.laptop{
+    width: 760px;
+    height: 700px;
+    padding: 0px;
+    padding-left: 10px;
+    margin: 0px;
+    border: 0px;
+}
+.texto2{
+    text-align:left;
+    padding: 0px;
+    padding-top: 260px;
+    padding-left: 30px;
+    margin: 0px;
+    border: 0px;
+}
+.h22{
+    font-family: poppins;
+    color: white;
+    font-size: 65px;
+    font-weight: 560;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    text-align: center;
+}
+#socio{
+    font-family: poppins;
+    color: #90e0ef;
+}
+.h32{
+    font-family: poppins;
+    color: white;
+    font-size: 40px;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    text-align: center;
+}
+.texp2{
+    font-family: poppins;
+    color: white;
+    width: 560px;
+    font-size: 30px;
+    font-weight: 270;
+    text-align:center;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+
+
+.partecentral{
+    padding: 0px;
+    padding-top: 135px;
+    margin: 0px;
+    border: 0px;
+    display:block;
+    box-shadow: 0 0 200px 0px white;
+}
+.titulos2{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    display: block;
+    text-align: center;
+}
+#titulo21{
+    font-family:poppins;
+    font-size: 50px;
+    color: #242424;
+    font-weight: 515;
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: -30px;
+    border: 0px;
+    letter-spacing: 2px;
+}
+#titulo22{
+    font-family: poppins;
+    font-size: 100px;
+    color: #03045e;
+    letter-spacing: 7px;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+#sitios{
+    padding: 0px;
+    padding-top: 125px;
+    padding-left: 100px;
+    margin: 0px;
+    border: 0px;
+    letter-spacing: 1px;
+    font-weight: 480;
+    font-family: poppins;
+    font-size: 90px;
+    color: #595959;
+}
+
+
+.pc1{
+    padding: 0px;
+    padding-top: 100px;
+    margin: 0px;
+    border: 0px;
+    display: flex; 
+}
+.caja11{
+    padding: 0px;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin: 0px;
+    border: 0px;
+}
+.imagenescentro{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    width: 500px;
+    height: 500px;
+}
+.caja12{
+    padding: 0px;
+    padding-top: 50px;
+    margin: 0px;
+    border: 0px;
+    display: block;
+    text-align:right;
+}
+.Landing{
+    font-family: poppins;
+    font-size: 70px;
+    color:#03045e;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+#land{
+    color:#595959;
+}
+#texto1{
+    font-family:montserrat;
+    color: #595959;
+    width: 440px;
+    font-size: 19px;
+}
+.vermas{
+    background-color: #90e0ef;
+    font-family: poppins;
+    color: white;
+    font-size: 35px;
+    font-weight: 630;
+    padding: 15px 155px;
+    margin: 0px;
+    border: 0px;
+    border-radius: 12px;
+    transition: .7s;
+}
+.vermas:hover{
+    background-image: linear-gradient(to right,#90e0ef ,#03045e );
+    cursor: pointer;
+}
+
+.pc2{
+    padding: 0px;
+    padding-top: 100px;
+    margin: 0px;
+    border: 0px;
+    display: flex;
+}
+.caja21{
+    padding: 0px;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin: 0px;
+    border: 0px;
+}
+
+#for{
+    display: block;
+}
+
+.h22{
+    color: #03045e;
+    font-family: poppins;
+    font-size: 50px;
+    text-align: center;
+    padding: 0px;
+    padding-top: 130px;
+    letter-spacing: 1px;
+    margin: 0px;
+    border: 0px;
+}
+
+
+.formulario{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    display: block;
+}
+
+#fu{
+    font-family: poppins;
+    font-size: 50px;
+    
+}
+
